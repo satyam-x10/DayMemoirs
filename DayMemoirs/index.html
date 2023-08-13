@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>DayMemoirs</title>
+</head>
+
+<body>
+
+
+
+
+    <div id="top">
+        <div id="logo"><img id="logo-img" src="img/logo.png" alt="logo"></div>
+        <div id="navbar">
+            <ul id="nav-ul">
+                <li class="navs"><img src="img/home.png" alt="home"></li>
+                <li class="navs"><img src="img/shares.jpg" alt="shares"></li>
+                <li class="navs"><img src="img/about.jpg" alt="about"></li>
+                <li class="navs"><img src="img/profile.jpg" alt="profile"></li>
+            </ul>
+        </div>
+        <div id="logo"><img id="logo-img" src="img/sign.png" alt="logo"></div>
+    </div>
+    <div id="bottom">
+        <div id="left">
+            <ul id="left-ui">
+                <li class="lefts"><img id="new_post_btn" src="img/post.jpg" alt="img"></li>
+                <li class="lefts"><img src="img/search.png" alt="img"></li>
+                <li class="lefts"><img src="img/messages.jpg" alt="img"></li>
+                <li class="lefts"><img src="img/notification.png" alt="img"></li>
+                <li class="lefts"><img src="img/menu.jpg" alt="img"></li>
+            </ul>
+        </div>
+        <div id="middle">
+            <!-- form here -->
+            <div id="new_post_form">
+                <div id="new_post_image">
+                    <input id="image_form" onchange="loadFile(event)" type="file"
+                        accept="image/jpg , image/png , image/jpeg">
+                    <img id="preview" />
+                </div>
+                <div id="new_post_text"> <input id="text_form" type="text"></div>
+                <button id="post_btn"> POST</button>
+            </div>
+            <!-- all data here  -->
+            <div class="temp-card">
+                <div id="content">
+                    <div id="image"></div>
+                    <div id="story"></div>
+                </div>
+                <div id="interact">
+                    <ul id="interact-ul">
+                        <li><img src="img/unliked.png" alt="img"></li>
+                        <li><img src="img/comment.jpg" alt="img"></li>
+                        <li><img src="img/forward.jpg" alt="img"></li>
+                        <li><img src="img/bookmark.jpg" alt="img"></li>
+                        <li><img src="img/report.jpg" alt="img"></li>
+                        <li><img src="img/remove.png" alt="img"></li>
+                    </ul>
+                </div>
+            
+                <!-- Wrapper to contain the posted content -->
+                <div id="posted_content_wrapper"></div>
+            </div>
+            
+            <div id="new_post_form">
+                <!-- Your existing form elements here -->
+            
+                <!-- Button to submit the form and post the content -->
+                <button id="post_btn">POST</button>
+            </div>
+            
+            
+            <div id="new_post_form">
+                <!-- Your existing form elements here -->
+            
+                <!-- Button to submit the form and post the content -->
+                <button id="post_btn">POST</button>
+            </div>
+            
+            
+        </div>
+        <div id="right">
+            <ul id="right-ui">
+                <li class="rights"><img src="img/trending.jpg" alt="img"></li>
+                <li class="rights"><img src="img/1.jpg" alt="img"></li>
+                <li class="rights"><img src="img/2.jpg" alt="img"></li>
+                <li class="rights"><img src="img/3.jpg" alt="img"></li>
+                <li class="rights"><img src="img/4.jpg" alt="img"></li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,170 @@
+   <div class="card">
+                <div id="content">
+                    <div id="image"><img src="img/post1.jpg" alt="img"></div>
+                    <div id="story">
+                        I was walking down the streets of Gujarat when I saw an old Lady selling Khakra and Chips for
+                        ₹10.
+                        I suggested “Why don’t you also start selling Chai? People would love to have it along with
+                        Khakra and you can increase your products and sales!”
+                        Sounded brilliant to me! That’s what I had learned in my College “Earn money from various
+                        sources”
+                        She told me “Bhaiya, mere baaju Mei ek Chai wala hai. Agar mai chai bechungi toh wo kya krega?!
+                        Uska pura ghar bas Chai ke bharose chalta hai!!
+                        (There is a man who sells tea beside me. If I start selling it, what will he sell? His whole
+                        family depends on it!)
+                        I was dumbstruck!!
+                        Today, I learned that it is not a market, where people think: Let me start this business, extend
+                        my brand to multiple products and capture a higher market share!
+                        These guys know that to Co-exist you need to fulfill everyone’s needs and not be selfish in
+                        filling your stomach. A street entrepreneur knows when it is enough!!
+                        This is India, Where Humanity prevails over Profits!
+                    </div>
+                </div>
+                <div id="interact">
+                    <ul id="interact-ul">
+                        <li><img src="img/unliked.png" alt="img"></li>
+                        <li><img src="img/comment.jpg" alt="img"></li>
+                        <li><img src="img/forward.jpg" alt="img"></li>
+                        <li><img src="img/bookmark.jpg" alt="img"></li>
+                        <li><img src="img/report.jpg" alt="img"></li>
+                        <li><img src="img/remove.png" alt="img"></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div id="content">
+                    <div id="image"><img src="img/post2.jpg" alt="img"></div>
+                    <div id="story">
+                        I was driving north on the frontage road alongside the Sam Houston Tollway in west Houston in
+                        the late afternoon. There was a vehicle in front of me about 7 or 8 car lengths. We were coming
+                        up on a traffic light that turned from red to green sufficiently in time for the car in front of
+                        me to not have to start braking, or else he had to brake very little. I didn’t brake at all.
+
+                        Suddenly, a car shot through the intersection from left to right 3 or 4 seconds after the light
+                        changed to green for us. The car in front of me didn’t brake, but I’m sure he was doing a
+                        double-take to make sure we had a green light, because that was what I was doing.
+                        About three or four years later, I sort of saw a chain-reaction rear end collision involving
+                        about six cars after a car passed me at night on a six-lane highway in far west Houston doing
+                        about 75 mph in a 45. About a quarter of a mile up ahead, I saw her tail lights come on. When I
+                        got up there, everybody was getting out of their cars at a traffic light. I couldn’t tell what
+                        happened really. All I could really tell was that her brake lights came on.
+
+                        Much more recently, I heard an accident, but I didn’t see it.
+                    </div>
+                </div>
+                <div id="interact">
+                    <ul id="interact-ul">
+                        <li><img src="img/unliked.png" alt="img"></li>
+                        <li><img src="img/comment.jpg" alt="img"></li>
+                        <li><img src="img/forward.jpg" alt="img"></li>
+                        <li><img src="img/bookmark.jpg" alt="img"></li>
+                        <li><img src="img/report.jpg" alt="img"></li>
+                        <li><img src="img/remove.png" alt="img"></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div id="content">
+                    <div id="image"><img src="img/post3.jpg" alt="img"></div>
+                    <div id="story">
+                        All beaches in Sydney (Australia) are all basically topless - if you chose to go that way - and
+                        many girls sunbathe in only a bikini bottom.
+
+                        I was at the beach one day and heard a scream.
+
+                        A girl was apparently sunbathing on her back and a baby from another group, had crawled a few
+                        feet away from its mother, and latched onto the one thing that it recognised…
+                    </div>
+                </div>
+                <div id="interact">
+                    <ul id="interact-ul">
+                        <li><img src="img/unliked.png" alt="img"></li>
+                        <li><img src="img/comment.jpg" alt="img"></li>
+                        <li><img src="img/forward.jpg" alt="img"></li>
+                        <li><img src="img/bookmark.jpg" alt="img"></li>
+                        <li><img src="img/report.jpg" alt="img"></li>
+                        <li><img src="img/remove.png" alt="img"></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div id="content">
+                    <div id="image"><img src="img/post4.jpg" alt="img"></div>
+                    <div id="story">
+                        This is my first surgery as a doctor.
+
+                        So, let me tell you, it's not as cool as it looks. I assisted this laparoscopic cholecystectomy.
+                        And I held the laparoscopic camera initially, and I held it stable and was able to maneuver it
+                        as told. Later, I had to retract the gall bladder for the consultant to dissect.
+
+                        But 5 min into the operation, I got a stupid itch. And obviously, I couldn't relieve it in this
+                        sterile attire… I had to bear it for what looked like an eternity but it subsided on its own… 🥹
+
+                        Itches have the worst timings. I mean, usually they would be non existent and the moment you
+                        cannot possibly scratch, they suddenly manifest.
+                    </div>
+                </div>
+                <div id="interact">
+                    <ul id="interact-ul">
+                        <li><img src="img/unliked.png" alt="img"></li>
+                        <li><img src="img/comment.jpg" alt="img"></li>
+                        <li><img src="img/forward.jpg" alt="img"></li>
+                        <li><img src="img/bookmark.jpg" alt="img"></li>
+                        <li><img src="img/report.jpg" alt="img"></li>
+                        <li><img src="img/remove.png" alt="img"></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div id="content">
+                    <div id="image"><img src="img/post5.jpg" alt="img"></div>
+                    <div id="story">
+                        I was a lifeguard for a few months at a small pool in the south of England.
+
+                        Often I was responsible for closing the pool up after the evening private swimming groups, and
+                        sometimes my gf would meet me and we had some time in our own private pool.
+
+                        One night she turned up with her cousin, and said she wanted to swim too. I pointed out that we
+                        swam naked, she was ok with that but had a single piece costume herself.
+
+                        In the water my gf starts to get romantic, I pointed out her cousin at the other end of the
+                        pool, she says her cousin wants to watch us.
+
+                        Long story short, we put one of the big foam floats on the pool side and gave her a good show,
+                        which she visibly enjoyed.
+                    </div>
+                </div>
+                <div id="interact">
+                    <ul id="interact-ul">
+                        <li><img src="img/unliked.png" alt="img"></li>
+                        <li><img src="img/comment.jpg" alt="img"></li>
+                        <li><img src="img/forward.jpg" alt="img"></li>
+                        <li><img src="img/bookmark.jpg" alt="img"></li>
+                        <li><img src="img/report.jpg" alt="img"></li>
+                        <li><img src="img/remove.png" alt="img"></li>
+                    </ul>
+                </div>
+            </div>
+            
+
+
+
+          <div class="temp-card">
+                <div id="content">
+                    <div id="image"></div>
+                    <div id="story">
+                        
+                    </div>
+                </div>
+                <div id="interact">
+                    <ul id="interact-ul">
+                        <li><img src="img/unliked.png" alt="img"></li>
+                        <li><img src="img/comment.jpg" alt="img"></li>
+                        <li><img src="img/forward.jpg" alt="img"></li>
+                        <li><img src="img/bookmark.jpg" alt="img"></li>
+                        <li><img src="img/report.jpg" alt="img"></li>
+                        <li><img src="img/remove.png" alt="img"></li>
+                    </ul>
+                </div>
+            </div>
+            
